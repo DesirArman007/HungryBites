@@ -1,6 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+## **Hungry Bites 🍔**  
+_A responsive food website with smooth navigation and engaging UI._  
+
+### **🚀 Features**  
+✅ Smooth scrolling navigation  
+✅ Organized sections (Hero, Features, Testimonials, Contact, etc.)  
+✅ Modern UI with Tailwind CSS  
+✅ Optimized for laptop screens  
+
+### **📂 Project Structure**  
+```
+/src  
+  ├── assets/         # Images & icons  
+  ├── sections/       # Different website sections  
+  ├── components/     # Reusable components  
+  ├── App.js          # Main app file  
+  ├── index.js        # Entry point  
+  ├── styles.css      # Global styles  
+```  
+
+### **📌 To-Do**  
+- [ ] Make it fully responsive 📱💻  
+- [ ] Add animations for a better user experience 🎨  
+- [ ] Improve accessibility ♿  
+
+### **💡 Contributing**  
+Feel free to fork and contribute! 🚀  
+
+### **📜 License**  
+MIT License  
+
+---
+
+Let me know if you need any modifications! 🚀🔥
 
 Currently, two official plugins are available:
 
